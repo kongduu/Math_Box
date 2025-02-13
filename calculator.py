@@ -8,3 +8,7 @@ def subtract(a, b):
 
 def multiply(a, b):
     a * b
+
+
+def devide(a, b):
+    a / b
