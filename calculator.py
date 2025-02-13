@@ -10,5 +10,5 @@ def multiply(a, b):
     a * b
 
 
-def devide(a, b):
+def devid_premium(a, b):
     a / b
